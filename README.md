@@ -17,3 +17,7 @@
 #### Run Test:
 
 `newman run collections/spacexapi.postman_collection.json -e environments/spacexapi.postman_environment.json --reporters cli,htmlextra --reporter-htmlextra-export report.html`
+
+#### GitLab CI/CD
+
+[Pipelines](https://gitlab.com/pamelaandrade/postman_spacexapi/-/pipelines)
