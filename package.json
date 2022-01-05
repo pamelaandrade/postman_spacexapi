@@ -1,0 +1,22 @@
+{
+  "name": "postman_spacexapi",
+  "version": "1.0.0",
+  "description": "Testing the SpaceX API using postman and newman report",
+  "dependencies": {
+    "newman": "^5.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pamelaandrade/postman_spacexapi.git"
+  },
+  "author": "Pamela Andrade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pamelaandrade/postman_spacexapi/issues"
+  },
+  "homepage": "https://github.com/pamelaandrade/postman_spacexapi#readme"
+}
